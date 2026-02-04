@@ -1,4 +1,4 @@
-## This google extension scrapper was developped only for a certain website wich might not work if  you decide to use it for a random website and your personal use, still tho the code is open source and here's the step to install the extension: 
+## This google extension scrapper was developped only for a certain website wich might not work if  you decide to use it for a random website and your personal use, still tho the code is open source and here are the steps to install the extension: 
 
 
 1. Download the zip file.
